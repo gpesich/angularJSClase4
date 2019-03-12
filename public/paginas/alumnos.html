@@ -1,0 +1,23 @@
+<h1>Informacion de los alumnos</h1>
+
+<table>
+    <thead>
+
+    </thead>
+    <tbody>
+        <tr>
+            <td>id</td>
+            <td>nombre</td>
+            <td>apellido</td>
+            <td>ver</td>
+            <td>borrar</td>
+        </tr>
+        <tr ng-repeat="alumno in alumnos">
+            <td>{{alumno.id}}</td>
+            <td>{{alumno.nombre}}</td>
+            <td>{{alumno.apellido}}</td>
+            <td><input type="button" value="mas info" ng-click="ver(alumno)"></td>
+            <td><input type="button" value="borrar" ng-click="borrar(alumno)"></td>
+        </tr>
+    </tbody>
+</table>

@@ -1,0 +1,48 @@
+[{
+    "id" : 1000,
+    "nombre": "Daniel",
+    "apellido": "Bermudez",
+    "saludo": "Hola a todos"
+}, {
+    "id" : 2000,
+    "nombre": "Fernando", 
+    "apellido": "Belizan",
+    "saludo": "Hola a todos"
+}, {
+    "id" : 3000,
+    "nombre": "Gabriela",  
+    "apellido": "Pesich",
+    "saludo": "Hola a todos"
+},
+{
+    "id" : 4000,
+    "nombre": "Julieta",
+    "apellido": "Francisconi",
+    "saludo": "Hola a todos"
+},{
+    "id" : 5000,
+    "nombre": "Lorena",
+    "apellido": "Bellon",
+    "saludo": "Hola a todos"
+},{
+    "id" : 6000,  
+    "nombre": "Judith",
+    "apellido": "Cengarle",
+    "saludo": "Hola a todos"
+}, {
+    "id" : 6001,  
+    "nombre": "Julieta",
+    "apellido": "Cengarle",
+    "saludo": "Hola a todos"
+},
+{
+    "id" : 7000,       
+    "nombre": "Mariano",
+    "apellido": "Sayagués",
+    "saludo": "Hola a todos"
+}, {
+    "id" : 8000,
+    "nombre": "Sebastian",
+    "apellido": "Maidana",
+    "saludo": "Hola a todos"
+}]
